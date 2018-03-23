@@ -61,7 +61,7 @@ Expected Output :
 125 / 24 = 5
 125 mod 24 = 5
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B6.java
 
 7. Write a Java program that takes a number as input and prints its multiplication table upto 10. 
 
