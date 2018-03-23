@@ -47,7 +47,7 @@ Input second number: 5
 Expected Output :
 25 x 5 = 125
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B5.java
 
 6. Write a Java program to print the sum (addition), multiply, subtract, divide and remainder of two numbers.
 
