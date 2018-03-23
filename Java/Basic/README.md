@@ -74,7 +74,7 @@ Expected Output :
 ...
 8 x 10 = 80
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B7.java
 
 8. Write a Java program to display the following pattern. 
 
