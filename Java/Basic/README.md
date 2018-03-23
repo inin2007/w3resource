@@ -22,7 +22,7 @@ Test Data :
 Expected Output :
 16
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B3.java
 
 4. Write a Java program to print the result of the following operations. 
 
