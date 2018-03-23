@@ -13,7 +13,7 @@ Test Data:
 Expected Output :
 110
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B2.java
 
 3. Write a Java program to divide two numbers and print on the screen. 
 
