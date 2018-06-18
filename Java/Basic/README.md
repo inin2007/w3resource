@@ -94,9 +94,7 @@ Test Data:
 Expected Output
 2.138888888888889
 
-Click me to see the solution
-
-
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B9.java
  
 10. Write a Java program to compute a specified formula. 
 
