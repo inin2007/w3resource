@@ -85,7 +85,7 @@ Sample Pattern :
 J  J  aaaaa   V V  aaaaa                                                
  JJ  a     a   V  a     a
  
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B8.java
 
 9. Write a Java program to compute the specified expressions and print the output. 
 
