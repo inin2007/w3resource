@@ -117,7 +117,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 12. Write a Java program that takes three numbers as input to calculate and print the average of the numbers. 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B12.java
 
 13. Write a Java program to print the area and perimeter of a rectangle. 
 
