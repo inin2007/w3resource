@@ -113,7 +113,7 @@ Expected Output
 Perimeter is = 47.12388980384689 
 Area is = 176.71458676442586
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B11.java
 
 12. Write a Java program that takes three numbers as input to calculate and print the average of the numbers. 
 
