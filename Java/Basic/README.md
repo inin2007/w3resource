@@ -128,7 +128,7 @@ Expected Output
 Area is 5.6 * 8.5 = 47.60
 Perimeter is 2 * (5.6 + 8.5) = 28.20
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B13.java
 
 14. Write a Java program to print an American flag on the screen. 
 
