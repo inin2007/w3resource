@@ -166,7 +166,7 @@ Expected Output
  | '-' |                                                 
  +-----+
  
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B16.java
 
 17. Write a Java program to add two binary numbers. 
 
