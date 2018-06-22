@@ -177,7 +177,7 @@ Expected Output
 
 Sum of two binary numbers: 101
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B17.java
 
 18. Write a Java program to multiply two binary numbers. 
 
