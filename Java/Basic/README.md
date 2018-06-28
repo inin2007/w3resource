@@ -188,7 +188,7 @@ Expected Output
 
 Product of two binary numbers: 110 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B18.java
 
 19. Write a Java program to convert a decimal number to binary number. 
 
