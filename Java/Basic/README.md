@@ -278,7 +278,7 @@ Expected Output
 
 Equivalent hexadecimal number: 40
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B27.java
 
 28. Write a Java program to convert a hexadecimal to a decimal number. 
 
