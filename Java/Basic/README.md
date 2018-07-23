@@ -288,7 +288,7 @@ Expected Output
 
 Equivalent decimal number is: 37
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B28.java
 
 29. Write a Java program to convert a hexadecimal to a binary number. 
 
