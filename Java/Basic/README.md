@@ -228,7 +228,7 @@ Expected Output
 
 Decimal Number: 4 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B22.java
 
 23. Write a Java program to convert a binary number to hexadecimal number. 
 
