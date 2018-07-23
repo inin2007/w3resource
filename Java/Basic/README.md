@@ -258,7 +258,7 @@ Expected Output
 
 Equivalent decimal number: 8
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B25.java
 
 26. Write a Java program to convert a octal number to a binary number. 
 
