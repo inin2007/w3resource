@@ -298,7 +298,7 @@ Expected Output
 
 Equivalent Binary Number is: 110111
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B29.java
 
 
  
