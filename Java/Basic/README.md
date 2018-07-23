@@ -268,7 +268,7 @@ Expected Output
 
 Equivalent binary number: 111 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B26.java
 
 27. Write a Java program to convert a octal number to a hexadecimal number. 
 
