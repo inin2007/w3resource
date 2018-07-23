@@ -310,7 +310,7 @@ Expected Output
 
 Equivalent of octal number is: 100 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B30.java
 
 31. Write a Java program to check whether Java is installed on your computer. 
 
