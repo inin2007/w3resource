@@ -323,7 +323,7 @@ Java Vendor: Oracle Corporation
 Java Vendor URL: http://Java.oracle.com/                                          
 Java Class Path: .
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B31.java
 
 32. Write a Java program to compare two numbers. 
 
