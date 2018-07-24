@@ -452,7 +452,7 @@ x-windows-949
 x-windows-950                                                           
 x-windows-iso2022jp
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B40.java
 
 41. Write a Java program to print the ascii value of a given character. 
 
