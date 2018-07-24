@@ -397,7 +397,7 @@ Expected Output
 
 Reverse string: xof nworb kciuq ehT
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B37.java
 
 38. Write a Java program to count the letters, spaces, numbers and other characters of an input string. 
 
