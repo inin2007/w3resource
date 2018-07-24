@@ -336,7 +336,7 @@ Expected Output
 25 < 39                                                                           
 25 <= 39
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B32.java
 
 33. Write a Java program and compute the sum of the digits of an integer. 
 
