@@ -346,7 +346,7 @@ Expected Output
 
 The sum of the digits is: 7
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B33.java
 
 34. Write a Java program to compute the area of a hexagon.
 
