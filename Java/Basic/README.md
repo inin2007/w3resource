@@ -358,7 +358,7 @@ Expected Output
 
 The area of the hexagon is: 93.53074360871938
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B34.java
 
 35. Write a Java program to compute the area of a polygon. 
 
