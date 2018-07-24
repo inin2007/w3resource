@@ -371,7 +371,7 @@ Expected Output
 
 The area is: 130.82084798405722
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B35.java
 
 36. Write a Java program to compute the distance between two points on the surface of earth. 
 
