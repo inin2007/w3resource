@@ -409,7 +409,7 @@ space: 9
 number: 10                                               
 other: 6
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B38.java
 
 39. Write a Java program to create and display unique three-digit number using 1, 2, 3, 4. Also count how many three-digit numbers are there. 
 
