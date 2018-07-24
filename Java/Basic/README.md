@@ -423,7 +423,7 @@ Expected Output
 432                                                      
 Total number of the three-digit-number is 24
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B39.java
 
 40. Write a Java program to list the available character sets in charset objects. 
 
