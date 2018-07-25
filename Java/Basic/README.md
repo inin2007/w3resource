@@ -516,7 +516,7 @@ Sample Output:
 
 Now: 2017/06/16 08:52:03.066 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B47.java
 
 48. Write a Java program to print the odd numbers from 1 to 99. Prints one number per line. 
 
