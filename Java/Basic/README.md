@@ -536,7 +536,7 @@ Sample Output:
 97                                                                     
 99 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B48.java
 
 49. Write a Java program to accept a number and check the number is even or not. Prints 1 if the number is even or 0 if the number is odd. 
 
