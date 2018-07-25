@@ -500,7 +500,7 @@ Sample Output:
 /home/students/abc.txt  : 0 bytes                                      
 /home/students/test.txt : 0 bytes 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B45.java
 
 46. Write a Java program to display the system time. 
 
