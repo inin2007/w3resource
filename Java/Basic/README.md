@@ -491,7 +491,7 @@ Sample Output:
 Input number: 5                                                        
 5 + 55  + 555
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B44.java
 
 45. Write a Java program to find the size of a specified file. 
 
