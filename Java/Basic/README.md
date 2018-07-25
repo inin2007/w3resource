@@ -562,7 +562,7 @@ Divided by 5:
 Divided by 3 & 5:                                                      
 15, 30, 45, 60, 75, 90,
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B50.java
 
 51. Write a Java program to convert a string to an integer in Java. 
 
