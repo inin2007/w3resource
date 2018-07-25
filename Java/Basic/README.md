@@ -508,7 +508,7 @@ Sample Output:
 
 Current Date time: Fri Jun 16 14:17:40 IST 2017 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B46.java
 
 47. Write a Java program to display the current date time in specific format. 
 
