@@ -482,7 +482,7 @@ Twinkle, twinkle, little star,
 Twinkle, twinkle, little star, 
 	How I wonder what you are
 	
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B43.java
 
 44. Write a Java program that accepts an integer (n) and computes the value of n+nn+nnn. 
 
