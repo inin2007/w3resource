@@ -460,7 +460,7 @@ Expected Output
 
 The ASCII value of Z is :90
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B41.java
 
 42. Write a Java program to input and display your password. 
 
