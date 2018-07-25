@@ -469,7 +469,7 @@ Expected Output
 Input your Password:                                                    
 Your password was: abc@123
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B42.java
 
 43. Write a Java program to print the following string in a specific format (see the output).
 
