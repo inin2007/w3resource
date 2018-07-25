@@ -545,7 +545,7 @@ Sample Output:
 Input a number: 20                                                     
 1
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B49.java
 
 50. Write a Java program to print numbers between 1 to 100 which are divisible by 3, 5 and by both. 
 
