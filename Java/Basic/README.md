@@ -613,7 +613,7 @@ Sample Output:
 Input seconds: 86399                                                   
 23:59:59
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B55.java
 
 56. Write a Java program to find the number of integers within the range of two specified numbers and that are divisible by another number. 
 
