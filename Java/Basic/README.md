@@ -622,7 +622,7 @@ Sample Output:
 
 5
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B56.java
 
 57. Write a Java program to accepts an integer and count the factors of the number. 
 
