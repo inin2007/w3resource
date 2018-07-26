@@ -660,7 +660,7 @@ Sample Output:
 Input a String: The quick brown fox jumps over the lazy dog.
 Penultimate word: lazy
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B60.java
 
 61. Write a Java program to reverse a word. 
 
