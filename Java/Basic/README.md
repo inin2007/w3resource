@@ -582,7 +582,7 @@ Input the second number: 10
 Input the third number : 15                                            
 The result is: true
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B52.java
 
 53. Write a Java program that accepts three integers from the user and return true if the second number is greater than first number and third number is greater than second number. If "abc" is true second number does not need to be greater than first number. 
 
