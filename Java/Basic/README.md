@@ -604,7 +604,7 @@ Input the second number: 10
 Input the third number : 15                                            
 The result is: true
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B54.java
 
 55. Write a Java program to convert seconds to hour, minute and seconds. 
 
