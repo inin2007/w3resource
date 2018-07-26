@@ -593,7 +593,7 @@ Input the second number: 10
 Input the third number : 15                                            
 The result is: true
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B53.java
 
 54. Write a Java program that accepts three integers from the user and return true if two or more of them (integers ) have the same rightmost digit. The integers are non-negative. 
 
