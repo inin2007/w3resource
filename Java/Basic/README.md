@@ -571,7 +571,7 @@ Sample Output:
 Input a number(string): 25                                             
 The integer value is: 25
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B51.java
 
 52. Write a Java program to calculate the sum of two integers and return true if the sum is equal to a third integer. 
 
