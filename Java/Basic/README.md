@@ -649,7 +649,7 @@ Sample Output:
 Input a String: THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.           
 the quick brown fox jumps over the lazy dog.
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B59.java
 
 
  
