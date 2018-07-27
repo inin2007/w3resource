@@ -727,7 +727,7 @@ Sample Output:
 
 Python Tutorial 3.0
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B67.java
 
 68. Write a Java program to create a new string of 4 copies of the last 3 characters of the original string. The length of the original string must be 3 and above. 
 
