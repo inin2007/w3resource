@@ -680,7 +680,7 @@ Input the second number: 20
 Input the third number : 25                                            
 false
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B62.java
 
 63. Write a Java program that accepts two integer values from the user and return the larger values. However if the two values are the same, return 0 and return the smaller value if the two values have the same remainder when divided by 6.
 
