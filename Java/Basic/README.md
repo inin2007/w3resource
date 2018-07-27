@@ -743,7 +743,7 @@ Test Data: Python
 Sample Output: 
 Pyt
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B69.java
 
 70. Write a Java program to create a string in the form short_string + long_string + short_string from two strings. The strings must not have the same length. 
 
