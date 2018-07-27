@@ -753,7 +753,7 @@ Sample Output:
 
 PythonTutorialPython
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B70.java
 
 71. Write a Java program to create the concatenation of the two strings except removing the first character of each string. The length of the strings must be 1 and above. 
 
