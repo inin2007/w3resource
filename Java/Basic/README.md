@@ -710,7 +710,7 @@ Input the first number : 19
 Input the second number: 7                                             
 5   
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B65.java
 
 66. Write a Java program to compute the sum of the first 100 prime numbers. 
 
