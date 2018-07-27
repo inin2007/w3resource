@@ -735,7 +735,7 @@ Sample Output:
 
 3.03.03.03.0 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B68.java
 
 69. Write a Java program to extract the first half of a string of even length. 
 
