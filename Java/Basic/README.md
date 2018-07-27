@@ -718,7 +718,7 @@ Sample Output:
 
 Sum of the first 100 prime numbers: 24133 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B66.java
 
 67. Write a Java program to insert a word in the middle of the another string. 
 
