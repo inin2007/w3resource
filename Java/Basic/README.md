@@ -669,7 +669,7 @@ Sample Output:
 Input a word: dsaf
 Reverse word: fasd
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B61.java
 
 62. Write a Java program that accepts three integer values and return true if one of them is 20 or more less than one of the others. 
 
