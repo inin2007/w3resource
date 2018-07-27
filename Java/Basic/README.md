@@ -700,7 +700,7 @@ Input the first number : 35
 Input the second number: 45                                            
 Result: true
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B64.java
 
 65. Write a Java program to calculate the modules of two numbers without using any inbuilt modulus operator. 
 
