@@ -763,7 +763,7 @@ Sample Output:
 
 ythonutorial
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B71.java
 
 72. Write a Java program to create a new string taking first three characters from a given string. If the length of the given string is less than 3 use "#" as substitute characters. 
 
