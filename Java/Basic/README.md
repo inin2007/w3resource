@@ -772,7 +772,7 @@ Sample Output:
 
 ###
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B72.java
 
 73. Write a Java program to create a new string taking first and last characters from two given strings. If the length of either string is 0 use "#" for missing character. 
 
