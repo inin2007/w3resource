@@ -791,7 +791,7 @@ Test Data: array = 10, -20, 0, 30, 40, 60, 10
 
 true
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B74.java
 
 75. Write a Java program to test if the first and the last element of an array of integers are same. The length of the array must be greater than or equal to 2. 
 
