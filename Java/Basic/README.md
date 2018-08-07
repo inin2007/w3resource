@@ -800,7 +800,7 @@ Sample Output:
 
 false
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B75.java
 
 76. Write a Java program to test if the first and the last element of two array of integers are same. The length of the array must be greater than or equal to 2.
 
