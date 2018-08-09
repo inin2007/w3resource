@@ -879,7 +879,7 @@ Array2: [1, 4, -5, -2]
                                                                        
 Result: 1 12 25 -8
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B83.java
 
 84. Write a Java program to take the last three characters from a given string and add the three characters at both the front and back of the string. String length must be greater than three and more. 
 
