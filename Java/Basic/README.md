@@ -831,7 +831,7 @@ Sample Output:
 Original Array: [5, 7]                                                 
 true 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B78.java
 
 79. Write a Java program to rotate an array (length 3) of integers in left direction. 
 
