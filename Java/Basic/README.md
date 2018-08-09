@@ -822,7 +822,7 @@ Array1: [50, -20, 0]
 Array2: [5, -50, 10]                                                   
 New Array: [50, 10]
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B77.java
 
 78. Write a Java program to test that a given array of integers of length 2 contains a 4 or a 7.
 
