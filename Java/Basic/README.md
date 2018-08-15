@@ -927,7 +927,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 93. Write a Java program to test if an array of integers contains an element 10 next to 10 or an element 20 next to 20, but not both.
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B93.java
 
 94. Write a Java program to rearrange all the elements of an given array of integers so that all the odd numbers come before all the even numbers.
 
