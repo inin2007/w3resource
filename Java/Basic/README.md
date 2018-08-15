@@ -915,7 +915,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 90. Write a Java program to get the value of the environment variable PATH, TEMP, USERNAME.
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B90.java
 
 91. Write a Java program to measure how long some code takes to execute in nanoseconds. 
 
