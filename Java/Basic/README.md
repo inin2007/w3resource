@@ -911,7 +911,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 89. Write a Java program to check whether a security manager has already been established for the current application or not.
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B89.java
 
 90. Write a Java program to get the value of the environment variable PATH, TEMP, USERNAME.
 
