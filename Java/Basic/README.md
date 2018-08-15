@@ -887,7 +887,7 @@ Test data: "Python" will be "honPythonhon"
 Sample Output:
 PyPythonPy
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B84.java
 
 85. Write a Java program to check if a string starts with a specified word. 
 
