@@ -907,7 +907,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 88. Write a Java program to get the current system environment and system properties. 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B88.java
 
 89. Write a Java program to check whether a security manager has already been established for the current application or not.
 
