@@ -931,7 +931,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 94. Write a Java program to rearrange all the elements of an given array of integers so that all the odd numbers come before all the even numbers.
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B94.java
 
 95. Write a Java program to create an array (length # 0) of string values. The elements will contain "0", "1", "2" … through ... n-1.
 
