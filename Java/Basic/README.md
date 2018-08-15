@@ -895,7 +895,7 @@ Sample Data: string1 = "Hello how are you?"
 Sample Output:
 true
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B85.java
 
 86. Write a Java program start with an integer n, divide n by 2 if n is even or multiply by 3 and add 1 if n is odd, repeat the process until n = 1. 
 
