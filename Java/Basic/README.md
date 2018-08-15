@@ -923,7 +923,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 92. Write a Java program to count the number of even and odd elements in a given array of integers.
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B92.java
 
 93. Write a Java program to test if an array of integers contains an element 10 next to 10 or an element 20 next to 20, but not both.
 
