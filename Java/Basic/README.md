@@ -935,7 +935,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 95. Write a Java program to create an array (length # 0) of string values. The elements will contain "0", "1", "2" … through ... n-1.
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B95.java
 
 96. Write a Java program to check if there is a 10 in a given array of integers with a 20 somewhere later in the array. 
 
