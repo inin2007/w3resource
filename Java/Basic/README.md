@@ -903,7 +903,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 87. Write a Java program than read an integer and calculate the sum of its digits and write the number of each digit of the sum in English. 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B87.java
 
 88. Write a Java program to get the current system environment and system properties. 
 
