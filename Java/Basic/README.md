@@ -967,7 +967,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 103. Write a Java program to create a new array from a given array of integers, new array will contain the elements from the given array after the last element value 10.
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B103.java
 
 104. Write a Java program to create a new array from a given array of integers, new array will contain the elements from the given array before the last element value 10. 
 
