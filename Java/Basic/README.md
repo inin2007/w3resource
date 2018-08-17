@@ -997,7 +997,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 Given num = 64, return true. Given num = 6, return false.
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B110.java
 
 111. Write a Java program to add two numbers without using any arithmetic operators. 
 
