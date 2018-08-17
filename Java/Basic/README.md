@@ -963,7 +963,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 102. Write a Java program to check if a specified array of integers contains 10's or 30's. 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B102.java
 
 103. Write a Java program to create a new array from a given array of integers, new array will contain the elements from the given array after the last element value 10.
 
