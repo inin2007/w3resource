@@ -947,7 +947,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 98. Write a Java program to check if the value 20 appears three times and no 20's are next to each other in an given array of integers. 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B98.java
 
 99. Write a Java program to check if a specified number appears in every pair of adjacent element of a given array of integers. 
 
