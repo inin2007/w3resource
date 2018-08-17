@@ -1021,7 +1021,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 114. Write a Java program to given a string and an offset, rotate string by offset (rotate from left to right). 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B114.java
 
 115. Write a Java program to check if a positive number is a palindrome or not. 
 
