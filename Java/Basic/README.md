@@ -1017,7 +1017,7 @@ array1 = [1,2,3,4]
 array2 = [2,5,7, 8]
 result = [1,2,2,3,4,5,7,8]
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B113.java
 
 114. Write a Java program to given a string and an offset, rotate string by offset (rotate from left to right). 
 
