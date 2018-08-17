@@ -987,7 +987,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 108. Write a Java program to add all the digits of a given positive integer until the result has a single digit. 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B108.java
 
 109. Write a Java program to form a staircase shape of n coins where every k-th row must have exactly k coins. 
 
