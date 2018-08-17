@@ -943,7 +943,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 97. Write a Java program to check if an array of integers contains a specified number next to each other or there are two same specified numbers separated by one element. 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B97.java
 
 98. Write a Java program to check if the value 20 appears three times and no 20's are next to each other in an given array of integers. 
 
