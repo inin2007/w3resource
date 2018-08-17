@@ -939,7 +939,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 96. Write a Java program to check if there is a 10 in a given array of integers with a 20 somewhere later in the array. 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B96.java
 
 97. Write a Java program to check if an array of integers contains a specified number next to each other or there are two same specified numbers separated by one element. 
 
