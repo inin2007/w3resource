@@ -991,7 +991,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 109. Write a Java program to form a staircase shape of n coins where every k-th row must have exactly k coins. 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B109.java
 
 110. Write a Java program to check whether an given integer is a power of 4 or not. 
 
