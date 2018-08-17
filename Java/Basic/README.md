@@ -971,7 +971,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 104. Write a Java program to create a new array from a given array of integers, new array will contain the elements from the given array before the last element value 10. 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B104.java
 
 105. Write a Java program to check if a group of numbers (l) at the start and end of a given array are same. 
 
