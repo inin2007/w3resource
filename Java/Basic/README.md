@@ -983,7 +983,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 107. Write a Java program to check if an array of integers contains three increasing adjacent numbers. 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B107.java
 
 108. Write a Java program to add all the digits of a given positive integer until the result has a single digit. 
 
