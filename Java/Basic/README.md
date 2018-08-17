@@ -1033,7 +1033,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 116. Write a Java program which iterates the integers from 1 to 100. For multiples of three print "Fizz" instead of the number and print "Buzz" for the multiples of five. When number is divided by both three and five, print "fizz buzz". 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B116.java
 
 117. Write a Java program to compute the square root of an given integer. 
 
