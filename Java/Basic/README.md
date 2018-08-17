@@ -979,7 +979,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 106. Write a Java program to create a new array that is left shifted from a given array of integers. 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B106.java
 
 107. Write a Java program to check if an array of integers contains three increasing adjacent numbers. 
 
