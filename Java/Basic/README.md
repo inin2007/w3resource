@@ -1003,7 +1003,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 Given x = 10 and y = 12; result = 22
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B111.java
 
 112. Write a Java program to compute the number of trailing zeros in a factorial. 
 
