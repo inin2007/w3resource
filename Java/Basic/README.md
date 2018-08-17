@@ -959,7 +959,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 101. Write a Java program to check if the number of 10 is greater than number to 20's in a given array of integers. 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B101.java
 
 102. Write a Java program to check if a specified array of integers contains 10's or 30's. 
 
