@@ -1009,7 +1009,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 7! = 5040, therefore the output should be 1
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B112.java
 
 113. Write a Java program to merge two given sorted array of integers and create a new sorted array. 
 
