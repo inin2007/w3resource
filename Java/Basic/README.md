@@ -975,7 +975,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 105. Write a Java program to check if a group of numbers (l) at the start and end of a given array are same. 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B105.java
 
 106. Write a Java program to create a new array that is left shifted from a given array of integers. 
 
