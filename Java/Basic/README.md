@@ -951,7 +951,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 99. Write a Java program to check if a specified number appears in every pair of adjacent element of a given array of integers. 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B99.java
 
 100. Write a Java program to count the two elements differ by 1 or less of two given arrays of integers with same length. 
 
