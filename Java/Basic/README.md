@@ -1042,32 +1042,41 @@ Square root of 25 is: 5
 
 Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B117.java
 
-118. Write a Java program to get the first occurrence (Position starts from 0.) of a string within a given string. Go to the editor
+118. Write a Java program to get the first occurrence (Position starts from 0.) of a string within a given string.
+
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B118.java
+
+119. Write a Java program to get the first occurrence (Position starts from 0.) of an element of a given array.
+
 Click me to see the solution
 
-119. Write a Java program to get the first occurrence (Position starts from 0.) of an element of a given array. Go to the editor
+120. Write a Java program that searches a value in an m x n matrix.
+
 Click me to see the solution
 
-120. Write a Java program that searches a value in an m x n matrix. Go to the editor
+121. Write a Java program to reverse a given linked list.
+Example: For linked list 20->40->60->80, the reversed linked list is 80->60->40->20
+
 Click me to see the solution
 
-121. Write a Java program to reverse a given linked list. Go to the editor
-Example: For linked list 20->40->60->80, the reversed linked list is 80->60->40->20 Click me to see the solution
+122. Write a Java program to find a contiguous subarray with largest sum from a given array of integers.
+Note: In computer science, the maximum subarray problem is the task of finding the contiguous subarray within a one-dimensional array of numbers which has the largest sum. For example, for the sequence of values −2, 1, −3, 4, −1, 2, 1, −5, 4; the contiguous subarray with the largest sum is 4, −1, 2, 1, with sum 6. The subarray should contain one integer at least. 
 
-122. Write a Java program to find a contiguous subarray with largest sum from a given array of integers. Go to the editor
-Note: In computer science, the maximum subarray problem is the task of finding the contiguous subarray within a one-dimensional array of numbers which has the largest sum. For example, for the sequence of values −2, 1, −3, 4, −1, 2, 1, −5, 4; the contiguous subarray with the largest sum is 4, −1, 2, 1, with sum 6. The subarray should contain one integer at least. Click me to see the solution
-
-123. Write a Java program to find the subarray with smallest sum from a given array of integers. Go to the editor
 Click me to see the solution
 
-124. Write a Java program to find the index of a value in a sorted array. If the value does not find return the index where it would be if it were inserted in order. Go to the editor
+123. Write a Java program to find the subarray with smallest sum from a given array of integers.
+
+Click me to see the solution
+
+124. Write a Java program to find the index of a value in a sorted array. If the value does not find return the index where it would be if it were inserted in order.
 Example: 
 [1, 2, 4, 5, 6] 5(target) -> 3(index)
 [1, 2, 4, 5, 6] 0(target) -> 0(index)
 [1, 2, 4, 5, 6] 7(target) -> 5(index)
+
 Click me to see the solution
 
-125. Write a Java program to get the preorder traversal of its nodes' values of a given a binary tree. Go to the editor
+125. Write a Java program to get the preorder traversal of its nodes' values of a given a binary tree.
 Example: 
     10
    / \
@@ -1075,8 +1084,10 @@ Example:
  / \
 40   50
 Expected output: 10 20 40 50 30
+
 Click me to see the solution
-126. Write a Java program to get the inorder traversal of its nodes' values of a given a binary tree. Go to the editor
+
+126. Write a Java program to get the inorder traversal of its nodes' values of a given a binary tree.
     10
    / \
   20   30
@@ -1084,61 +1095,74 @@ Click me to see the solution
 40   50
 Example:{10, 20, 30, 40, 50}
 Output: 40 20 50 10 30 
+
 Click me to see the solution
-127. Write a Java program to get the Postorder traversal of its nodes' values of a given a binary tree. Go to the editor
+
+127. Write a Java program to get the Postorder traversal of its nodes' values of a given a binary tree.
     10
    / \
   20   30
  / \
 40   50
+
 Click me to see the solution
-128.Write a Java program to calculate the median of an given unsorted array of integers. Go to the editor
+
+128.Write a Java program to calculate the median of an given unsorted array of integers.
 Example: {10,2,38,23,38,23,21}
 Output: 23
+
 Click me to see the solution
 
-129. Write a Java program to find a number that appears only once in a given array of integers, all numbers occur twice. Go to the editor
+129. Write a Java program to find a number that appears only once in a given array of integers, all numbers occur twice.
 Source Array : [10, 20, 10, 20, 30, 40, 40, 30, 50] 50 appears only once
+
 Click me to see the solution
 
-130. Write a Java program to find the maximum depth of a given a binary tree. Go to the editor
+130. Write a Java program to find the maximum depth of a given a binary tree.
 Sample Output: The Maximum depth of the binary tree is: 3
+
 Click me to see the solution
 
-131. Write a Java program to find the new length of a given sorted array where each element appear only once (remove the duplicates ). Go to the editor
+131. Write a Java program to find the new length of a given sorted array where each element appear only once (remove the duplicates ).
 Original array: [1, 1, 2, 3, 3, 3, 4, 5, 6, 7, 7] The length of the original array is: 11 After removing duplicates, the new length of the array is: 7
+
 Click me to see the solution
 
-132. Write a Java program to find the new length of a given sorted array where duplicate elements appeared at most twice. Go to the editor
+132. Write a Java program to find the new length of a given sorted array where duplicate elements appeared at most twice.
 Original array: [1, 1, 2, 3, 3, 3, 4, 5, 6, 7, 7, 7, 7]
 The length of the original array is: 13
 After removing duplicates, the new length of the array is: 10
+
 Click me to see the solution
 
-133. Write a Java program to find a path from top left to bottom in right direction which minimizes the sum of all numbers along its path. Go to the editor
+133. Write a Java program to find a path from top left to bottom in right direction which minimizes the sum of all numbers along its path.
 Note: Move either down or right at any point in time.
 Sample Output: Sum of all numbers along its path: 13
+
 Click me to see the solution
 
-134. Write a Java program to find the distinct ways you can climb to the top (n steps to reach to the top) of stairs. Each time you can either climb 1 or 2 steps. Go to the editor
+134. Write a Java program to find the distinct ways you can climb to the top (n steps to reach to the top) of stairs. Each time you can either climb 1 or 2 steps.
 Example: n = 5 
 a) 1+1+1+1+1 = 5 b) 1+1+1+2 = 5 c) 1+2+2 = 5 d) 2+2+1 = 5 e) 2+1+1+1 = 5 f) 2+1+2 = 5 g) 1+2+1+1 = 5 h) 1+1+2+1 = 5
 Sample Output: Distinct ways can you climb to the top: 8
+
 Click me to see the solution
 
-135. Write a Java program to remove duplicates from a sorted linked list. Go to the editor
+135. Write a Java program to remove duplicates from a sorted linked list.
 Original List with duplicate elements:
 12->12->13->14->15->15->16->17->17
 After removing duplicates from the said list:
 12->13->14->15->16->17
+
 Click me to see the solution
 
-136. Write a Java program to find possible unique paths from top-left corner to bottom-right corner of a given grid (m x n). Go to the editor
+136. Write a Java program to find possible unique paths from top-left corner to bottom-right corner of a given grid (m x n).
 Note: You can move either down or right at any point in time.
 Sample Output: Unique paths from top-left corner to bottom-right corner of the said grid: 3
+
 Click me to see the solution
 
-137. Write a Java program to find possible unique paths considering some obstacles, from top-left corner to bottom-right corner of a given grid (m x n). Go to the editor
+137. Write a Java program to find possible unique paths considering some obstacles, from top-left corner to bottom-right corner of a given grid (m x n).
 Note: You can move either down or right at any point in time and an obstacle and empty space is marked as 1 and 0 respectively in the grid.
 Sample grid: 
 int[][] obstacle_Grid ={
@@ -1147,9 +1171,10 @@ int[][] obstacle_Grid ={
 {0, 0, 0},
 };
 Sample Output: Unique paths from top-left corner to bottom-right corner of the said grid (considering some obstacles): 2
+
 Click me to see the solution
 
-138. Write a Java program to find all of the longest word in a given dictionary. Go to the editor
+138. Write a Java program to find all of the longest word in a given dictionary.
 Example-1:
 {
 "cat",
@@ -1173,47 +1198,54 @@ Click me to see the solution
 139. Write a Java program to get the index of the first number and the last number of a subarray where the sum of numbers is zero from a given array of integers. Go to the editor
 Original Array : [1, 2, 3, -6, 5, 4]
 Index of the subarray of the said array where the sum of numbers is zero: [0, 3]
+
 Click me to see the solution
 
-140. Write a Java program to merge all overlapping Intervals from a given a collection of intervals. Go to the editor
+140. Write a Java program to merge all overlapping Intervals from a given a collection of intervals.
 Sample Output: 1 6
 8 10
 15 20
+
 Click me to see the solution
 
-141. Write a Java program to check if a given string has all unique characters. Go to the editor
+141. Write a Java program to check if a given string has all unique characters.
 Sample Output: Original String : xyyz
 String has all unique characters: false
+
 Click me to see the solution
 
-142. Write a Java program to check if two given strings are anagrams or not. Go to the editor
+142. Write a Java program to check if two given strings are anagrams or not.
 According to Wikipedia "An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once. For example, the word anagram can be rearranged into nag a ram, or the word binary into brainy."
 Sample Output: String-1 : wxyz
 String-2 : zyxw
 Check if two given strings are anagrams or not?: true
+
 Click me to see the solution
 
-143. Write a Java program to merge two given sorted lists. Go to the editor
+143. Write a Java program to merge two given sorted lists.
 Sample Output: 
 Merge Two Sorted ListsT:
 1 2 3 7 9 13 40 
+
 Click me to see the solution
 
-144. Write a Java program to remove all occurrences of a specified value in a given array of integers and return the new length of the array. Go to the editor
+144. Write a Java program to remove all occurrences of a specified value in a given array of integers and return the new length of the array.
 Sample Output: 
 Original array: [1, 4, 6, 7, 6, 2]
 The length of the new array is: 4
+
 Click me to see the solution
 
-145. Write a Java program to remove the nth element from the end of a given list. Go to the editor
+145. Write a Java program to remove the nth element from the end of a given list.
 Sample Output: 
 Original node:
 1 2 3 4 5 
 After removing 2nd element from end:
 1 2 3 5 
+
 Click me to see the solution
 
-146. Write a Java program to convert an sorted array to binary search tree. Maintain minimal height of the tree. Go to the editor
+146. Write a Java program to convert an sorted array to binary search tree. Maintain minimal height of the tree.
 Sample Output: 
 2
 1
@@ -1221,27 +1253,32 @@ Sample Output:
 6
 5
 3
+
 Click me to see the solution
 
-147. Write a Java program to find the number of bits required to flip to convert two given integers. Go to the editor
+147. Write a Java program to find the number of bits required to flip to convert two given integers.
 Sample Output: 
 2
+
 Click me to see the solution
 
-148. Write a Java program to find the index of the first unique character in a given string, assume that there is at least one unique character in the string. Go to the editor
+148. Write a Java program to find the index of the first unique character in a given string, assume that there is at least one unique character in the string.
 Sample Output: 
 Original String: wresource
 First unique character of the above: 0
+
 Click me to see the solution
 
-149. Write a Java program to check if a given string is a permutation of another given string. Go to the editor
+149. Write a Java program to check if a given string is a permutation of another given string.
 Sample Output: 
 Original strings: xxyz yxzx
 true
+
 Click me to see the solution
 
-150. Write a Java program to test if a binary tree is a subtree of another binary tree. Go to the editor
+150. Write a Java program to test if a binary tree is a subtree of another binary tree.
 Sample Output: 
 Original strings: xxyz yxzx
 true
+
 Click me to see the solution
