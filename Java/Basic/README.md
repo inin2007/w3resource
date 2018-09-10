@@ -1048,7 +1048,7 @@ Click me to see the solution https://github.com/inin2007/w3resource/blob/master/
 
 119. Write a Java program to get the first occurrence (Position starts from 0.) of an element of a given array.
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Basic/B119.java
 
 120. Write a Java program that searches a value in an m x n matrix.
 
