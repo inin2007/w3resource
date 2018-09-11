@@ -22,7 +22,7 @@ Input an integer between 0 and 1000: 565
 Expected Output :
 The sum of all digits in 565 is 16
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Data%20Types/DT3.java
 
 4. Write a Java program to convert minutes into a number of years and days.
 
