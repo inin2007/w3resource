@@ -13,7 +13,7 @@ Input a value for inch: 1000
 Expected Output :
 1000.0 inch is 25.4 meters
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Data%20Types/DT2.java
 
 3. Write a Java program that reads an integer between 0 and 1000 and adds all the digits in the integer.
 
