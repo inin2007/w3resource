@@ -4,7 +4,7 @@ Input a degree in Fahrenheit: 212
 Expected Output:
 212.0 degree Fahrenheit is equal to 100.0 in Celsius
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Data%20Types/DT1.java
 
 2. Write a Java program that reads a number in inches, converts it to meters.
 Note: One inch is 0.0254 meter.
