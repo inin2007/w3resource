@@ -5,7 +5,7 @@ Input number: 35
 Expected Output :
 Number is positive
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Conditional%20Statement/CS1.java
 
 2. Write a Java program to solve quadratic equations (use if, else if and else).
 
