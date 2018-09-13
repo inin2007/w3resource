@@ -97,4 +97,4 @@ Input six non-negative digits: 123456
 Expected Output :
 1 2 3 4 5 6
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Data%20Types/DT10.java
