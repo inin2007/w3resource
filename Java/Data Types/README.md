@@ -88,7 +88,7 @@ Distance of two integers: 20
 Max integer: 25 
 Min integer: 5
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Data%20Types/DT9.java
 
 10. Write a Java program to break an integer into a sequence of individual digits.
 
