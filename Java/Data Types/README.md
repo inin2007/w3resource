@@ -40,7 +40,7 @@ Input the time zone offset to GMT: 256
 Expected Output:
 Current time is 23:40:24
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Data%20Types/DT5.java
 
 6. Write a Java program to compute body mass index (BMI).
 
