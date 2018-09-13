@@ -72,7 +72,7 @@ Expected Output:
 Square: .2f 
 Cube: .2f 
 Fourth power: 50625.00
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Data%20Types/DT8.java
 
 9. Write a Java program that accepts two integers from the user and then prints the sum, the difference, the product, the average, the distance (the difference between integer), the maximum (the larger of the two integers), the minimum (smaller of the two integers).
 
