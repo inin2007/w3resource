@@ -64,7 +64,7 @@ Your speed in meters/second is 0.11691531
 Your speed in km/h is 0.42089513 
 Your speed in miles/h is 0.26158804
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Data%20Types/DT7.java
 
 8. Write a Java program that reads a number and display the square, cube, and fourth power.
 
