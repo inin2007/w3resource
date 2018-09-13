@@ -31,7 +31,7 @@ Input the number of minutes: 3456789
 Expected Output :
 3456789 minutes is approximately 6 years and 210 days
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Data%20Types/DT4.java
 
 5. Write a Java program that prints the current time in GMT.
 
