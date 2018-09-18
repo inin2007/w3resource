@@ -37,7 +37,7 @@ Expected Output :
 The value of m = 25.0
 The value of n = 1
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Conditional%20Statement/CS4.java
 
 5. Write a Java program that keeps a number from the user and generates an integer between 1 and 7 and displays the name of the weekday.
 
