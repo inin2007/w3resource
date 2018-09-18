@@ -16,7 +16,7 @@ Input c: 1
 Expected Output :
 The roots are -0.20871215252208009 and -4.7912878474779195 
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Conditional%20Statement/CS2.java
 
 3. Take three numbers from the user and print the greatest number.
 
