@@ -27,7 +27,7 @@ Input the 3rd number: 87
 Expected Output :
 The greatest: 87
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Conditional%20Statement/CS3.java
 
 4. Write a Java program to read the value of an integer m and display the value of n is 1 when m is larger than 0, 0 when m is 0 and -1 when m is less than 0.
 
