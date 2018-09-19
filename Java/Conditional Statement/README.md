@@ -56,7 +56,7 @@ Input floating-point another number: 3254
 Expected Output :
 They are different
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Conditional%20Statement/CS6.java
 
 7. Write a Java program to find the number of days in a month.
 
