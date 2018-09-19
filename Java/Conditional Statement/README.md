@@ -75,7 +75,7 @@ Input an alphabet: p
 Expected Output :
 Input letter is Consonant
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Conditional%20Statement/CS8.java
 
 9. Write a Java program that takes a year from user and print whether that year is a leap year or not.
 
