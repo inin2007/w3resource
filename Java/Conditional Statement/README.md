@@ -84,7 +84,7 @@ Input the year: 2016
 Expected Output :
 2016 is a leap year
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Conditional%20Statement/CS9.java
 
 10. Write a program in Java to display the first 10 natural numbers.
 
