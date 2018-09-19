@@ -46,7 +46,7 @@ Input number: 3
 Expected Output :
 Wednesday
 
-Click me to see the solution
+Click me to see the solution https://github.com/inin2007/w3resource/blob/master/Java/Conditional%20Statement/CS5.java
 
 6. Write a Java program that reads in two floating-point numbers and tests whether they are the same up to three decimal places.
 
